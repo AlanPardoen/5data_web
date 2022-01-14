@@ -1,4 +1,6 @@
 export default {
     '/': 'Home',
-    '/about': 'About'
+    '/about': 'About',
+    '/data': 'Data',
+    '/graphs': 'Graphs'
   }

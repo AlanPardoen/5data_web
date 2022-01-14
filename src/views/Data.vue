@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="data">
+    <h1>This is an data page</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 // @ is an alias to /src
 
 export default {
-  name: 'About',
+  name: 'Data',
   components: { 
   }
 }
