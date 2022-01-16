@@ -3,7 +3,10 @@ export default{
         return{
             session:{
                 jsToken: null
+            },
+            table:{
             }
+
         }
     }
 }
